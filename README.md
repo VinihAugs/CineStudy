@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link to view the project
+
+<div >
+    <a href="https://cine-study.vercel.app">
+        <img src="https://img.icons8.com/comic/100/laptop.png" align ="center" height ="50" width ="60"/>
+    </a>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
